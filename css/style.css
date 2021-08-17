@@ -430,6 +430,19 @@ main {
 
 
 
+footer {
+    padding: 5px 10px;
+    text-align: center;
+    color: var(--f-color);
+    background-color: var(--one-color);
+}
+
+footer .copyright {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
 /** Animaciones */
 
 @keyframes hover-buttons {
